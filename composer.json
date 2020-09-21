@@ -1,0 +1,6 @@
+{
+    "name": "g1910731303003/metamask",
+    "require": {
+        "silex/silex": "~1.1"
+    }
+}
